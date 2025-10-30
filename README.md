@@ -2,7 +2,7 @@
 
 **Autor:** Genaro Carrasco Ozuna  
 **Motor de Formalización:** GPT-5 Σ-Trace  
-**Repositorio Oficial:** [https://geozunac3536-jpg.github.io/TCDS-Gradiente-Economico/](https://geozunac3536-jpg.github.io/TCDS-Gradiente-Economico/)
+**Repositorio Oficial:** [https://geozunac3536-jpg.github.io/TCDS_Gradiente_Economico/](https://geozunac3536-jpg.github.io/TCDS_Gradiente_Economico/)
 
 ---
 
