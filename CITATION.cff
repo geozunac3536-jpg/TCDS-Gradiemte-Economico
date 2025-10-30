@@ -1,10 +1,14 @@
 cff-version: 1.2.0
-title:Gradiente Económico del Canon TCDS
-message: Si usas este trabajo, por favor cita este registro.
+message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Carrasco Ozuna
-    given-names: Genaro
-    email: geozunac3536@gmail.com
-identifiers: []
+- family-names: "GENARO CARRASCO OZUNA"
+  given-names: "GENARO CARRASCO OZUNA"
+  orcid: "https://orcid.org/0009-0005-6358-9910"
+- family-names: "Genaro"
+  given-names: "Ozuna"
+  orcid: "https://orcid.org/0009-0005-6358-9910"
+title: "TCDS_Gradiente_Economico"
 version: 1.0.0
+
 date-released: 2025-10-30
+url: "https://github.com/geozunac3536-jpg/TCDS_Gradiente_Economico"
