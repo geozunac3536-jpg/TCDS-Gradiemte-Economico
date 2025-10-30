@@ -1,0 +1,8 @@
+kpi,definicion,meta,observaciones
+tasa_conversion,contratos/prospectos_calificados,0.10,ajustar por sector
+margen_operativo,(ingresos-costos)/ingresos,0.40,meta trimestral
+retencion_trimestral,contratos_renovados/activos,0.70,evitar fuga
+mix_licencias_porcentaje,ingresos_licencias/ingresos_totales,0.30,objetivo inicial
+mix_servicios_porcentaje,ingresos_servicios/ingresos_totales,0.40,objetivo inicial
+mix_regalias_porcentaje,ingresos_regalías/ingresos_totales,0.20,objetivo inicial
+mix_donaciones_porcentaje,ingresos_donaciones/ingresos_totales,0.10,objetivo inicial

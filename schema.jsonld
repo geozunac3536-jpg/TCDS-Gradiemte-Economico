@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Modelo de Gradiente Económico del Canon TCDS",
+  "author": {
+    "@type": "Person",
+    "name": "Genaro Carrasco Ozuna"
+  },
+  "dateCreated": "2025-10-30",
+  "inLanguage": "es",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "keywords": [
+    "TCDS",
+    "Sigma-metrics",
+    "Economía del conocimiento",
+    "Licencia dual"
+  ],
+  "description": "Paquete operativo para monetización legítima del Canon TCDS con licenciamiento dual y KPIs."
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Modelo de Gradiente Económico del Canon TCDS",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "creators": [
+    {
+      "name": "Carrasco Ozuna, Genaro",
+      "affiliation": "TCDS"
+    }
+  ],
+  "description": "Paquete reproducible para licenciamiento dual y flujo económico del Canon TCDS.",
+  "access_right": "open",
+  "license": "cc-by-nc-sa-4.0"
+}
