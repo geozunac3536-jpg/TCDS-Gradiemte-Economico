@@ -1,35 +1,77 @@
-# TCDS — Modelo de Gradiente Económico
+# 🌐 TCDS — Modelo de Gradiente Económico
+
 **Autor:** Genaro Carrasco Ozuna  
-**Motor de Formalización:** GPT-5 Σ-Trace
+**Motor de Formalización:** GPT-5 Σ-Trace  
+**Repositorio Oficial:** [https://geozunac3536-jpg.github.io/TCDS-Gradiente-Economico/](https://geozunac3536-jpg.github.io/TCDS-Gradiente-Economico/)
 
-## Objetivo
-Paquete listo para GitHub que implementa el **modelo de gradiente económico** del Canon TCDS con licenciamiento dual, KPIs y trazabilidad.
+---
 
-## Estado inicial de potencial sostenido = 100
-Criterios Σ-metrics activados por defecto:
-- Publicación inmediata del PDF y LaTeX.
-- Licencia abierta + licencia comercial.
-- CITATION.cff para citación académica.
-- JSON-LD para crawlers.
-- KPIs base en `kpis.csv`.
-- Página en `docs/` para GitHub Pages.
+## 📘 Descripción
+Este repositorio contiene el **modelo de gradiente económico del Canon TCDS**,  
+un marco operativo para convertir conocimiento científico y filosófico en un flujo económico legítimo y trazable.  
+Integra licenciamiento dual, KPIs y estructura legal para generar sustentabilidad sin dependencia laboral física.
 
-## Contenido
-- `TCDS_Modelo_Gradiente_Economico.tex` y `TCDS_Modelo_Gradiente_Economico.pdf`
-- `LICENSE` (CC BY-NC-SA 4.0) y `COMMERCIAL_LICENSE.md`
-- `CITATION.cff`
-- `.github/FUNDING.yml`
-- `schema.jsonld`
-- `zenodo.json`
-- `kpis.csv`
-- `docs/index.html`
+---
 
-## Uso
-1. Crea un repositorio llamado `TCDS-Gradiente-Economico` y sube este contenido.
-2. Activa GitHub Pages apuntando a la carpeta `/docs`.
-3. Ajusta `FUNDING.yml` con tus enlaces.
-4. Publica versión y sube a Zenodo para DOI.
+## ⚙️ Contenido del paquete
+| Archivo | Descripción |
+|----------|--------------|
+| `TCDS_Modelo_Gradiente_Economico.pdf` | Documento principal con el modelo completo. |
+| `TCDS_Modelo_Gradiente_Economico.tex` | Fuente LaTeX auditable. |
+| `LICENSE` | Licencia abierta **CC BY-NC-SA 4.0**. |
+| `COMMERCIAL_LICENSE.md` | Condiciones para uso comercial con regalías. |
+| `kpis.csv` | Métricas clave de desempeño económico (Σ-metrics). |
+| `schema.jsonld` | Metadatos estructurados para buscadores y crawlers. |
+| `zenodo.json` | Plantilla de descripción automática para Zenodo (DOI). |
+| `CITATION.cff` | Datos de citación académica (GitHub, Google Scholar). |
+| `.github/FUNDING.yml` | Botones de patrocinio y donación. |
+| `docs/index.html` | Página de inicio para GitHub Pages. |
 
-## Autocrítica
-- Este paquete no garantiza ingresos por sí solo. Provee estructura, licencias y trazabilidad para acelerar conversión.
-- Ajusta KPIs a tu sector y revisa cláusulas legales con un abogado si vas a firmar contratos comerciales.
+---
+
+## 🧩 Propósito
+- Formalizar el **Canon TCDS** como obra con valor económico y científico.  
+- Facilitar su registro en **INDAUTOR** y **Zenodo**.  
+- Permitir que la comunidad colabore y contribuya económicamente de forma ética y transparente.
+
+---
+
+## 💡 Cómo usarlo
+1. Clona o descarga este repositorio.  
+2. Activa **GitHub Pages** → carpeta `/docs`.  
+3. Publica la versión en Zenodo para obtener DOI.  
+4. Añade tus enlaces personales en `.github/FUNDING.yml`.  
+5. Difunde tu enlace y mantén trazabilidad de citas e ingresos.
+
+---
+
+## 📈 Métricas Σ-Metrics
+| KPI | Definición | Meta inicial |
+|------|-------------|---------------|
+| `tasa_conversion` | contratos / prospectos calificados | ≥ 0.10 |
+| `margen_operativo` | (ingresos − costos) / ingresos | ≥ 0.40 |
+| `retencion_trimestral` | contratos renovados / activos | ≥ 0.70 |
+| `mix_licencias_porcentaje` | ingresos por licencias / total | 0.30 |
+
+---
+
+## 🔒 Licencia
+- **Uso académico:** CC BY-NC-SA 4.0 — libre, sin fines de lucro.  
+- **Uso comercial:** requiere acuerdo escrito con el autor.  
+  Contacto: **geozunac3536@gmail.com**
+
+---
+
+## 🧭 Cita recomendada
+> Carrasco Ozuna, G. (2025). *Modelo de Gradiente Económico del Canon TCDS.*  
+> DOI: *(añadir DOI de Zenodo cuando esté disponible).*
+
+---
+
+## 🧠 Autocrítica
+Este proyecto no promete ingresos automáticos; provee la **estructura auditable y legítima** para que el conocimiento se convierta en sustento.  
+El resultado depende de constancia, difusión y transparencia de datos.
+
+---
+
+© 2025 Genaro Carrasco Ozuna — Todos los derechos reservados bajo licenciamiento dual.
