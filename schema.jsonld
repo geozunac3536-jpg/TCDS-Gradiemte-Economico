@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "name": "Modelo de Gradiente Económico del Canon TCDS",
+  "name": "TCDS Gradiente Económico",
   "author": {
     "@type": "Person",
     "name": "Genaro Carrasco Ozuna"
