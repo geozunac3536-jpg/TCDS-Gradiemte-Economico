@@ -7,7 +7,7 @@
 ---
 
 ## 📘 Descripción
-Este repositorio contiene el **modelo de gradiente económico del Canon TCDS**,  
+Este repositorio contiene el **TCDS gradiente económico del Canon TCDS**,  
 un marco operativo para convertir conocimiento científico y filosófico en un flujo económico legítimo y trazable.  
 Integra licenciamiento dual, KPIs y estructura legal para generar sustentabilidad sin dependencia laboral física.
 
@@ -16,8 +16,8 @@ Integra licenciamiento dual, KPIs y estructura legal para generar sustentabilida
 ## ⚙️ Contenido del paquete
 | Archivo | Descripción |
 |----------|--------------|
-| `TCDS_Modelo_Gradiente_Economico.pdf` | Documento principal con el modelo completo. |
-| `TCDS_Modelo_Gradiente_Economico.tex` | Fuente LaTeX auditable. |
+| `TCDS_Gradiente_Economico.pdf` | Documento principal con el modelo completo. |
+| `TCDS_Gradiente_Economico.tex` | Fuente LaTeX auditable. |
 | `LICENSE` | Licencia abierta **CC BY-NC-SA 4.0**. |
 | `COMMERCIAL_LICENSE.md` | Condiciones para uso comercial con regalías. |
 | `kpis.csv` | Métricas clave de desempeño económico (Σ-metrics). |
@@ -63,7 +63,7 @@ Integra licenciamiento dual, KPIs y estructura legal para generar sustentabilida
 ---
 
 ## 🧭 Cita recomendada
-> Carrasco Ozuna, G. (2025). *Modelo de Gradiente Económico del Canon TCDS.*  
+> Carrasco Ozuna, G. (2025). *TCDS Gradiente Económico del Canon TCDS.*  
 > DOI: *(añadir DOI de Zenodo cuando esté disponible).*
 
 ---
