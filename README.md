@@ -1,4 +1,4 @@
-# 🌐 TCDS — Modelo de Gradiente Económico
+# 🌐 TCDS Gradiente Económico
 
 **Autor:** Genaro Carrasco Ozuna  
 **Motor de Formalización:** GPT-5 Σ-Trace  
@@ -63,7 +63,7 @@ Integra licenciamiento dual, KPIs y estructura legal para generar sustentabilida
 ---
 
 ## 🧭 Cita recomendada
-> Carrasco Ozuna, G. (2025). *TCDS Gradiente Económico del Canon TCDS.*  
+> Carrasco Ozuna, G. (2025). *TCDS Gradiente Económico.*  
 > DOI: *(añadir DOI de Zenodo cuando esté disponible).*
 
 ---
