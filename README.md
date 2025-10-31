@@ -33,7 +33,7 @@ Apoyo directo [Ko-fi](https://ko-fi.com/genarocarrasco)
 ### 🚀 Licencias de Preventa 2026
 - 💼 [TCDS Σ Open Lab v1.1 — Pre-Launch 2026](LICENSE_COMMERCIAL_v1.1_PRELAUNCH.md)
 - ⚙️ [ΣFET Hardware License v1.0 — Pre-Launch 2026](LICENSE_HARDWARE_SFET_v1.0_PRELAUNCH.md)
-
+| Manifiesto JSON | [docs_manifest.gradiente.json](./docs_manifest.gradiente.json) |
 ### ⚖️ Licencia dual
 - **Científica:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 - **Comercial:** *TCDS Σ Open Lab License v1.0*
