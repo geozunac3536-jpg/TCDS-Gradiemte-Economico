@@ -1,58 +1,69 @@
-# ΣFET Hardware Development License v1.0  
+# TCDS Σ Open Lab Commercial License v1.1  
 ### © 2025 Genaro Carrasco Ozuna — ORCID [0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)
 
 ---
 
-## 1. Scope  
-This license governs the design, replication, and improvement of **ΣFET (Sigma Field-Effect Transistor)** or any coherence-meter derived from TCDS-Σ specifications.
+## 1. Purpose  
+This license authorizes **industrial or commercial** use of TCDS-Σ materials (software, datasets, models, or hardware designs) while preserving the principles of open science and reproducibility.
 
-The objective is to maintain **open reproducibility** of the Σ-field detection principle while allowing certified developers to commercialize physical units.
+It ensures that every derivative product maintains scientific transparency, open documentation, and traceable redistribution of value.
 
 ---
 
 ## 2. Rights Granted  
-Licensees may:
-- Reproduce, assemble, and test ΣFET prototypes.  
-- Integrate the device into measurement platforms or instrumentation systems.  
-- Publish data obtained through ΣFET devices under open or commercial use.  
-- Manufacture limited production runs (≤ 200 units/year) for R&D or demonstration.
+Holders of a valid Open Lab v1.1 license may:
+- Reproduce, modify, and use the TCDS-Σ works in commercial environments.  
+- Integrate Σ-metrics or CSL-IA modules into proprietary systems.  
+- Manufacture or distribute physical ΣFET or derivative hardware.  
+- Publish experimental data, metrics, or results using the TCDS-Σ framework.
 
 ---
 
 ## 3. Obligations  
+Licensees must:
 
 1. **Attribution**  
-   Cite the hardware design as:  
-   *Carrasco Ozuna, G. (2025). ΣFET Coherencímetro — TCDS-Σ Hardware License v1.0.*
+   Always cite the work as:  
+   *Carrasco Ozuna, G. (2025). TCDS-Σ — Canon Económico y Científico. DOI: [10.5281/zenodo.17494368](https://doi.org/10.5281/zenodo.17494368).*
 
-2. **Design Transparency**  
-   - Keep schematic, BOM, and firmware source accessible (GitHub or equivalent).  
-   - Include Σ-metrics in testing reports: LI ≥ 0.90, R > 0.95, RMSE < 0.10, reproducibility ≥ 95 %.  
+2. **Transparency and Reproducibility**  
+   - Provide open access to experimental methods, scripts, or datasets sufficient to reproduce published results.  
+   - Keep version control records public (GitHub, Zenodo, or equivalent).
 
-3. **Registration**  
-   - Record each produced unit (serial number, date, buyer) in `/economics/ledger.json`.  
-   - Reference the Open Lab v1.1 license ID associated with the production.  
+3. **Economic Traceability**  
+   - Register each commercial use or derivative in the public ledger:  
+     [`/economics/ledger.json`](./economics/ledger.json).  
+   - Pay the corresponding fee defined in [`prices.yaml`](./economics/prices.yaml) according to license tier.  
+   - Retain proof of payment (receipt hash or invoice reference).
 
-4. **Safety and Compliance**  
-   - Follow international electrical safety standards (IEC 61010).  
-   - No deployment for weaponized or surveillance applications.  
-
----
-
-## 4. Commercialization  
-- Manufacturing beyond 200 units/year requires a **Corporate Open Lab v1.1** license.  
-- Sales must include a digital copy of this license and a ledger hash entry.  
+4. **Restrictions**  
+   - No resale or sublicensing of this license.  
+   - No use for military or surveillance purposes.  
+   - No concealment of scientific or safety-relevant data.
 
 ---
 
-## 5. Jurisdiction and Validity  
-- Governed by Mexican and international IP law.  
-- Non-exclusive, worldwide rights for R&D and educational use.  
+## 4. License Tiers and Fees  
+| Tier | Description | Fee (USD) | Term |
+|------|--------------|-----------|------|
+| **IND** | Individual / Startup < 5 employees | 1 200 | Perpetual |
+| **CORP** | Corporate | 32 000 | Annual |
+
+Payments are processed via Stripe or Ko-fi / PayPal links declared in the official repository.  
+Each transaction automatically records a hash receipt in the ledger.
 
 ---
 
-## 6. Version History  
-- **v1.0 (2025-11-01)** — initial public release synchronized with TCDS Open Lab v1.1.  
+## 5. Legal Jurisdiction  
+- Governing law: **Mexico (CDMX)**.  
+- Disputes shall be resolved by arbitration under Mexican Federal IP law.  
+- Non-exclusive worldwide license.
+
+---
+
+## 6. Versioning  
+- **v1.1 (2025-11-01)** — replaces v1.0.  
+- Future revisions may add digital-signature verification for automatic ledger entries.
 
 ---
 
