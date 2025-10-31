@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-11-01T15:00:00Z",
+  "tx_id": "stripe_00001",
+  "type": "License",
+  "item_id": "TCDS-OL-IND",
+  "source": "Stripe",
+  "amount_usd": 1200.00,
+  "distribution": {
+    "r_d_fund": 800.00,
+    "maintenance": 240.00,
+    "education": 160.00
+  },
+  "receipt_hash": "receipts/stripe_00001.json"
+}
