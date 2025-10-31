@@ -1,5 +1,10 @@
 # 🌐 TCDS Gradiente Económico
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17491112.svg)](https://doi.org/10.5281/zenodo.17491112)
 
+# 🌐 TCDS-Σ — Business Plan & Dossier
+Repositorio maestro del **Canon Económico y Científico 2025–2030** del proyecto TCDS-Σ.  
+Licencia dual: CC BY-NC-SA 4.0 + TCDS Σ Open Lab License v1.0  
+Autor: **Genaro Carrasco Ozuna** · [ORCID 0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)
 **Autor:** Genaro Carrasco Ozuna  
 **Motor de Formalización:** GPT-5 Σ-Trace  
 **Repositorio Oficial:** [https://geozunac3536-jpg.github.io/TCDS_Gradiente_Economico/](https://geozunac3536-jpg.github.io/TCDS_Gradiente_Economico/)
