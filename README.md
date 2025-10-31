@@ -30,7 +30,7 @@ Apoyo directo [Ko-fi](https://ko-fi.com/genarocarrasco)
 | `economics/prices.yaml` | Catálogo de precios y licencias. |
 | `economics/ledger.json` | Registro auditable de flujos. |
 | `index.html` | Página pública con GA4 y Consent Mode v2. |
-
+- ⚙️ [ΣFET Hardware Module](hardware/ΣFET/README.md)
 ---
 
 ### ⚖️ Licencia dual
