@@ -1,0 +1,41 @@
+{
+  "project": "TCDS_Gradiente_Económico — Canon Operativo (TCDS-Σ)",
+  "repository": "geozunac3536-jpg/TCDS_Gradiente_Economico",
+  "site": "https://geozunac3536-jpg.github.io/TCDS_Gradiente_Economico/",
+  "doi": "10.5281/zenodo.17491112",
+  "orcid": "https://orcid.org/0009-0005-6358-9910",
+  "license_science": "CC BY-NC-SA 4.0",
+  "license_commercial": "TCDS Σ Open Lab License v1.1 (Pre-Launch 2026)",
+  "last_updated": "2025-10-31",
+  "documents": [
+    {
+      "path": "docs/TCDS_Gradiente_Economico.pdf",
+      "title": "Modelo de Gradiente Económico — PDF",
+      "type": "pdf",
+      "mediaType": "application/pdf",
+      "description": "Marco técnico-legal y KPIs para transformar coherencia científica en flujo económico legítimo."
+    },
+    {
+      "path": "docs/TCDS_Gradiente_Economico.tex",
+      "title": "Fuente LaTeX — Gradiente Económico",
+      "type": "tex",
+      "mediaType": "text/x-tex",
+      "description": "Código reproducible del modelo (auditoría)."
+    }
+  ],
+  "economics": {
+    "prices": "economics/prices.yaml",
+    "ledger": "economics/ledger.json"
+  },
+  "prelaunch_2026": {
+    "open_lab_license": "LICENSE_COMMERCIAL_v1.1_PRELAUNCH.md",
+    "hardware_license": "LICENSE_HARDWARE_SFET_v1.0_PRELAUNCH.md",
+    "availability": "2026-01-01"
+  },
+  "links": [
+    { "rel": "readme", "href": "README.md" },
+    { "rel": "index", "href": "index.html" },
+    { "rel": "doi", "href": "https://doi.org/10.5281/zenodo.17491112" },
+    { "rel": "business-plan", "href": "https://geozunac3536-jpg.github.io/TCDS-Business-Plan/" }
+  ]
+}
