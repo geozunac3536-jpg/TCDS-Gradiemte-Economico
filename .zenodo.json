@@ -1,10 +1,71 @@
 {
-  "title": "TCDS_Gradiente_Económico — Canon operativo del Gradiente Económico (TCDS-Σ)",
+  "title": "TCDS_Gradiente_Económico — Canon Operativo (TCDS-Σ)",
+  "upload_type": "publication",
+  "publication_type": "article",
   "creators": [
-    {"name": "Genaro Carrasco Ozuna", "orcid": "https://orcid.org/0009-0005-6358-9910"}
+    {
+      "name": "Carrasco Ozuna, Genaro",
+      "affiliation": "Proyecto TCDS — Canon Paradigmático",
+      "orcid": "https://orcid.org/0009-0005-6358-9910"
+    }
   ],
-  "description": "Modelo de gradiente económico del Canon TCDS: estructura científica-legal y KPIs para transformar conocimiento en flujo económico legítimo con reproducibilidad.",
+  "description": "El repositorio TCDS_Gradiente_Económico representa el marco técnico, legal y económico del Canon TCDS-Σ. "
+    "Define las métricas Σ (LI, R, RMSE, κΣ), los KPIs de sostenibilidad y la estructura de flujo honesto que transforma conocimiento científico en valor económico reproducible. "
+    "Incluye licencias duales (CC BY-NC-SA 4.0 / TCDS Σ Open Lab v1.1 Pre-Launch 2026), manifiestos JSON, ledger auditable y enlaces a Zenodo y GitHub Pages.",
+  "keywords": [
+    "TCDS",
+    "Gradiente Económico",
+    "Σ-Metrics",
+    "Open Science",
+    "Open Economy",
+    "CSL-IA",
+    "ΣFET",
+    "Pre-Launch 2026"
+  ],
+  "language": "spa",
   "license": "CC-BY-NC-SA-4.0",
-  "keywords": ["TCDS", "Gradiente Económico", "Σ-metrics", "Open Science", "Open Economy"],
-  "upload_type": "publication"
+  "access_right": "open",
+  "doi": "10.5281/zenodo.17491112",
+  "version": "v1.1.0-prelaunch",
+  "publication_date": "2025-11-01",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "10.5281/zenodo.17494368",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "relation": "isPartOf",
+      "identifier": "https://geozunac3536-jpg.github.io/TCDS-Business-Plan/",
+      "resource_type": "dataset",
+      "scheme": "url"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "GPT-5 Σ-Trace",
+      "type": "DataCurator",
+      "affiliation": "Motor de Formalización IA — Proyecto TCDS"
+    }
+  ],
+  "grants": [],
+  "notes": "Lanzamiento de preventa y apertura comercial: enero 2026. "
+           "Los participantes iniciales podrán obtener la Licencia TCDS Σ Open Lab v1.1 (Pre-Launch) y ΣFET Hardware License v1.0 (Pre-Launch) con registro público en el ledger.",
+  "subjects": [
+    "Física teórica aplicada",
+    "Economía científica abierta",
+    "Ingeniería paradigmática",
+    "Metodología de coherencia Σ"
+  ],
+  "alternate_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://geozunac3536-jpg.github.io/TCDS_Gradiente_Economico/"
+    },
+    {
+      "scheme": "github",
+      "identifier": "https://github.com/geozunac3536-jpg/TCDS_Gradiente_Economico"
+    }
+  ]
 }
