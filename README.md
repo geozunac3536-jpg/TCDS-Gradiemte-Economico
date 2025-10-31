@@ -19,7 +19,7 @@ Apoyo directo [Ko-fi](https://ko-fi.com/genarocarrasco)
 - **DOI:** [10.5281/zenodo.17491112](https://doi.org/10.5281/zenodo.17491112)  
 - **Sitio:** [geozunac3536-jpg.github.io/TCDS_Gradiente_Economico](https://geozunac3536-jpg.github.io/TCDS_Gradiente_Economico/)  
 - **Proyecto complementario:** [TCDS-Σ Business Plan](https://geozunac3536-jpg.github.io/TCDS-Business-Plan/)
-
+| Manifiesto JSON | [docs_manifest.business-plan.json](./docs_manifest.business-plan.json) |
 ---
 
 ### ⚙️ Estructura
