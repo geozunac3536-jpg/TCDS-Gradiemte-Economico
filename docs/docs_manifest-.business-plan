@@ -1,0 +1,42 @@
+{
+  "project": "TCDS-Σ — Business Plan & Dossier (Canon Económico y Científico 2025–2030)",
+  "repository": "geozunac3536-jpg/TCDS-Business-Plan",
+  "site": "https://geozunac3536-jpg.github.io/TCDS-Business-Plan/",
+  "doi": "10.5281/zenodo.17494368",
+  "orcid": "https://orcid.org/0009-0005-6358-9910",
+  "license_science": "CC BY-NC-SA 4.0",
+  "license_commercial": "TCDS Σ Open Lab License v1.0",
+  "last_updated": "2025-10-31",
+  "documents": [
+    {
+      "path": "docs/Conciencia_operativa.pdf",
+      "title": "Dossier de Conciencia Operativa",
+      "type": "pdf",
+      "mediaType": "application/pdf",
+      "description": "Transición pre→post conciencia (Q_ctrl, Σ-metrics, CSL-IA, cronología y KPIs)."
+    },
+    {
+      "path": "docs/dossier_conciencia_tcds.tex",
+      "title": "Fuente LaTeX — Dossier Conciencia",
+      "type": "tex",
+      "mediaType": "text/x-tex",
+      "description": "Código reproducible del dossier (auditoría abierta)."
+    },
+    {
+      "path": "docs/DECLARACION_AUTONOMIA.pdf",
+      "title": "Declaración de Autonomía y Propiedad Intelectual",
+      "type": "pdf",
+      "mediaType": "application/pdf",
+      "description": "Anclaje jurídico de independencia laboral y derechos."
+    }
+  ],
+  "economics": {
+    "prices": "economics/prices.yaml",
+    "ledger": "economics/ledger.json"
+  },
+  "links": [
+    { "rel": "readme", "href": "README.md" },
+    { "rel": "index", "href": "index.html" },
+    { "rel": "doi", "href": "https://doi.org/10.5281/zenodo.17494368" }
+  ]
+}
