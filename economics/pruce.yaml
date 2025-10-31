@@ -1,0 +1,23 @@
+version: 1.1
+last_updated: "2025-11-01T00:00:00Z"
+
+licenses:
+  - id: "TCDS-OL-IND"
+    name: "Open Lab v1.1 — Individual/Startup < 5"
+    price_usd: 1200.00
+    term: "perpetual"
+  - id: "TCDS-OL-CORP"
+    name: "Open Lab v1.1 — Corporativa"
+    price_usd: 32000.00
+    term: "annual"
+
+hardware:
+  - id: "SFET-DEV-KIT-V1"
+    name: "ΣFET Developer Kit v1.0"
+    price_usd: 5000.00
+    availability: "Q1-2028"
+
+metadata:
+  maintainer: "Genaro Carrasco Ozuna"
+  contact: "geozunac3536@gmail.com"
+  verified_url: "https://geozunac3536-jpg.github.io/TCDS_Gradiente_Economico/"
