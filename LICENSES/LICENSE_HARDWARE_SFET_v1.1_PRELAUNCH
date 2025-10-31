@@ -1,0 +1,48 @@
+# ΣFET Hardware Development License v1.0 — Pre-Launch Program 2026  
+### © 2025-2026 Genaro Carrasco Ozuna — ORCID [0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)
+
+---
+
+## 1. Validity
+Effective **01-Jan-2026 → 31-Dec-2026** as part of the TCDS-Σ early-adopter program.
+
+---
+
+## 2. Rights Granted
+Participants may:
+- Build up to **five ΣFET Developer Kits (V1.0)** for research and calibration.  
+- Integrate devices into measurement systems for non-commercial demonstration.  
+- Collect and publish Σ-metrics (LI, R, RMSE, κΣ) using the DOI reference.  
+- Purchase production rights (> 5 units) after **01-Jan-2027** under the commercial license.
+
+---
+
+## 3. Obligations
+- Cite: *Carrasco Ozuna, G. (2025). ΣFET Coherencímetro — TCDS-Σ Hardware License v1.0.*  
+- Keep schematic/BOM open in the repository or Zenodo derivative.  
+- Register each prototype in `economics/ledger.json` with `"type":"PreLaunch-Hardware"`.  
+- Follow IEC 61010 safety rules.
+
+---
+
+## 4. Cost and Delivery
+- **Reservation fee:** USD 1 000 per unit (creditable to 2027 production).  
+- Delivery window: Q1 → Q2 2026 (depending on component supply).  
+- Shipping and import handled by buyer.
+
+---
+
+## 5. Transition
+On **01-Jan-2027**, licensees may upgrade to full *ΣFET Hardware v1.1* manufacturing rights by signing the updated agreement.
+
+---
+
+## 6. Jurisdiction
+Mexico (CDMX); governed by Mexican IP law with international recognition through OMPI.
+
+---
+
+## 7. Contact
+**Maintainer:** Genaro Carrasco Ozuna  
+**Email:** [geozunac3536@gmail.com](mailto:geozunac3536@gmail.com)  
+**Repository:** [https://geozunac3536-jpg.github.io/TCDS_Gradiente_Economico/](https://geozunac3536-jpg.github.io/TCDS_Gradiente_Economico/)
