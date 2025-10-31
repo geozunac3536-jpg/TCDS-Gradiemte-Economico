@@ -1,5 +1,4 @@
-# 🌐 TCDS Gradiente Económico
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17491112.svg)](https://doi.org/10.5281/zenodo.17491112)
+[![DOI][(https://zenodo.org/badge/DOI/10.5281/zenodo.17491112.svg)](https://doi.org/10.5281/zenodo.17491112)]
 
 # 🌐 TCDS-Σ — Business Plan & Dossier
 Repositorio maestro del **Canon Económico y Científico 2025–2030** del proyecto TCDS-Σ.  
