@@ -1,0 +1,3 @@
+ItemNo,Part,Description,Manufacturer,MPN,Qty,Unit,UnitCostUSD,ExtendedCostUSD,Supplier,SupplierSKU,Notes,AltParts
+1,CMOS VCO board,LC VCO eval board 1–3 GHz,Analog Devices,ADF4351-EB,1,pcs,65,65.0,Analog/Adafruit,,Mapping Arnold tongues,Si5351 (lower freq)
+2,Divider / PLL,Frequency divider/PLL board,Analog Devices,ADF4002,1,pcs,30,30.0,Analog,,,
