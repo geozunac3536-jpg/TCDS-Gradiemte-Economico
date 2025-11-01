@@ -1,1 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 420">
+  <style>
+    .blk {fill:#1b1b1b;stroke:#69d2e7;stroke-width:2;rx:12;ry:12;}
+    .txt {font-family:sans-serif;font-size:14px;fill:#e0e0e0;text-anchor:middle;}
+    .arr {stroke:#aee239;stroke-width:2;marker-end:url(#arrow);}
+  </style>
 
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5"
+      markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#aee239"/>
+    </marker>
+  </defs>
+
+  <!-- Bloques -->
+  <rect class="blk" x="40" y="150" width="150" height="80"/>
+  <text class="txt" x="115" y="195">SHNO Core</text>
+
+  <rect class="blk" x="240" y="150" width="150" height="80"/>
+  <text class="txt" x="315" y="195">VO₂ Core</text>
+
+  <rect class="blk" x="440" y="150" width="150" height="80"/>
+  <text class="txt" x="515" y="195">CMOS VCO</text>
+
+  <rect class="blk" x="640" y="150" width="150" height="80"/>
+  <text class="txt" x="715" y="195">Piezo / PMN-PT</text>
+
+  <rect class="blk" x="840" y="150" width="150" height="80"/>
+  <text class="txt" x="915" y="195">Rectificador RF→DC</text>
+
+  <!-- Flechas -->
+  <line class="arr" x1="190" y1="190" x2="240" y2="190"/>
+  <line class="arr" x1="390" y1="190" x2="440" y2="190"/>
+  <line class="arr" x1="590" y1="190" x2="640" y2="190"/>
+  <line class="arr" x1="790" y1="190" x2="840" y2="190"/>
+
+  <!-- Capa superior de control -->
+  <rect class="blk" x="300" y="40" width="500" height="60"/>
+  <text class="txt" x="550" y="75">Control Qctrl / CSL–IA / Métricas Σ (LI, R, RMSE_SL, κΣ)</text>
+
+  <line class="arr" x1="550" y1="100" x2="550" y2="150"/>
+
+  <!-- Etiqueta final -->
+  <text class="txt" x="550" y="350">Esquema funcional del ΣFET — flujo de coherencia y conversión energética</text>
+</svg>
