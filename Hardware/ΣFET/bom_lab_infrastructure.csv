@@ -1,0 +1,4 @@
+ItemNo,Part,Description,Manufacturer,MPN,Qty,Unit,UnitCostUSD,ExtendedCostUSD,Supplier,SupplierSKU,Notes,AltParts
+1,Shielded cables,"Coax SMA, balanced lines",Pasternack,PE-SMA,1,set,120,120.0,Pasternack,,,
+2,Ferrites/Chokes,EMI suppression kit,TDK,EMI-KIT,1,set,45,45.0,Mouser,,,
+3,Ground kit,Single-point ground bus,Various,GND-KIT,1,set,35,35.0,—,,,
