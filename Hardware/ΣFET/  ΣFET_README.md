@@ -6,7 +6,7 @@ componente experimental de la **Teoría Cromodinámica Sincrónica (TCDS)** dent
 Cada archivo CSV corresponde a una subarquitectura física reproducible y auditable del conjunto ΣFET.
 
 ---
-
+![Esquema funcional del ΣFET](schematic.svg)
 ## 📘 Descripción general
 
 El **ΣFET** (Sigma Field-Effect Transistor) implementa la transferencia coherencial entre campos Q–Σ–φ–χ,  
