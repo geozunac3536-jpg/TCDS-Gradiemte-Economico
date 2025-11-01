@@ -1,0 +1,11 @@
+ItemNo,Part,Description,Manufacturer,MPN,Qty,Unit,UnitCostUSD,ExtendedCostUSD,Supplier,SupplierSKU,Notes,AltParts
+1,SHNO die/wafer,Spin Hall nano-oscillator (5–20 GHz) test die,Custom/Foundry,SHNO-20G-Test,2,pcs,650,1300.0,University/Foundry,,Baseline free-running linewidth characterization,
+2,Nanocontact stack,Pt/NiFe/Pt multilayer with Au pads,Custom,NC-Pt-NiFe-Pt,1,lot,800,800.0,Foundry,,Process mask set not included,
+3,Probe card / RF,"GSG 150 μm RF probe, DC bias needles",Cascade/Signatone,GSG-150-RF,1,set,2200,2200.0,MPI/Signatone,,For VNA/generator coupling,
+4,Bias Tee,"DC+RF bias tee, 10 MHz–6 GHz, 1 A",Mini-Circuits,ZFBT-6GW+,1,pcs,109,109.0,Mini-Circuits,,,Mini-Circuits ZFBT-4R2GW+
+5,RF Generator,"RF Signal Generator, -60 to 0 dBm, 2f drive option",Rigol/Siglent,SG1030X/SSG3021X,1,pcs,950,950.0,Rigol/Siglent,,Lab-grade. Any equivalent ok,
+6,VNA / Spectrum,VNA/Spectrum RBW ≤1 kHz,Siglent/Rigol/Keysight,SSA3000X-R,1,pcs,1890,1890.0,Siglent,,Linewidth & locking mapping,Keysight N9320B (used)
+7,Faraday enclosure,EMI shielded box + ferrites + single-point ground,Various,FAR-BOX-M,1,pcs,250,250.0,Bud/Polycase,,Safety & null tests,
+8,Thermal sensor,IR camera or thermistor array for die monitoring,FLIR/MA,FLIR-One-Pro / NTC-array,1,pcs,400,400.0,FLIR/others,,Temperature control & logs,
+9,DC Source,Low-noise current source 0–10 mA,Keithley/Rigol,2230G/2400 (used),1,pcs,650,650.0,Tequipment,,Threshold IDC ~0.45–2.5 mA,
+10,Cables/Adapters,"SMA cables, attenuators, adapters kit",Pasternack,PE-KIT,1,set,180,180.0,Pasternack,,,
