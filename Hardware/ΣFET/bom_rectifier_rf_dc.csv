@@ -1,0 +1,4 @@
+ItemNo,Part,Description,Manufacturer,MPN,Qty,Unit,UnitCostUSD,ExtendedCostUSD,Supplier,SupplierSKU,Notes,AltParts
+1,Schottky diode,SMS7630 zero-bias detector,Skyworks,SMS7630-061,10,pcs,1.2,12.0,Mouser/Digi-Key,,RF→DC μW (2.4 GHz guide),
+2,LPF components,RC low-pass network 10 k–1 MΩ,Various,R/C-0402-0603,1,kit,25,25.0,Mouser,,,
+3,Proto PCB,RF prototyping board,Adafruit,P-boards,2,pcs,6,12.0,Adafruit,,,
