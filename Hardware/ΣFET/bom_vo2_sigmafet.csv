@@ -1,0 +1,4 @@
+ItemNo,Part,Description,Manufacturer,MPN,Qty,Unit,UnitCostUSD,ExtendedCostUSD,Supplier,SupplierSKU,Notes,AltParts
+1,VO2 device,VO2 Mott oscillator sample,Custom/Foundry,VO2-MOTT-OSC,3,pcs,120,360.0,University/Foundry,,Sub-harmonic injection locking <25 ciclos,
+2,Heater/Stage,Temperature-controlled stage,Thorlabs,HT10K,1,pcs,350,350.0,Thorlabs,,Phase transition tuning,
+3,Lock-in option,SR830 class (used),SRS,SR830,1,pcs,900,900.0,Used,,Noise suppression,
