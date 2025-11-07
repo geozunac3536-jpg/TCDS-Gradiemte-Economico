@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17491112.svg)](https://doi.org/10.5281/zenodo.17491112)
 [![DOI](https://zenodo.org/badge/1086888537.svg)](https://doi.org/10.5281/zenodo.17494316)
 # 🌐 TCDS_Gradiente_Económico — Canon Operativo (TCDS-Σ)
-
+Nodo central: https://geozunac3536-jpg.github.io/TCDS-Convergencia/
 Repositorio oficial del **modelo de Gradiente Económico del Canon TCDS**,  
 marco técnico-legal y científico que convierte conocimiento en flujo económico legítimo, medible y auditable.
 
